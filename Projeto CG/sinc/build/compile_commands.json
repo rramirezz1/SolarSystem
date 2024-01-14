@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/home/tiagogugu/CG1/Projeto/sinc/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -isystem /usr/lib  -std=c++11 -o CMakeFiles/sinc.dir/main.cpp.o -c /home/tiagogugu/CG1/Projeto/sinc/main.cpp",
+  "file": "/home/tiagogugu/CG1/Projeto/sinc/main.cpp"
+},
+{
+  "directory": "/home/tiagogugu/CG1/Projeto/sinc/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -isystem /usr/lib  -std=c++11 -o CMakeFiles/sinc.dir/textFile.cpp.o -c /home/tiagogugu/CG1/Projeto/sinc/textFile.cpp",
+  "file": "/home/tiagogugu/CG1/Projeto/sinc/textFile.cpp"
+},
+{
+  "directory": "/home/tiagogugu/CG1/Projeto/sinc/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -isystem /usr/lib  -std=c++11 -o CMakeFiles/sinc.dir/home/tiagogugu/CG1/Projeto/common/shader.cpp.o -c /home/tiagogugu/CG1/Projeto/common/shader.cpp",
+  "file": "/home/tiagogugu/CG1/Projeto/common/shader.cpp"
+},
+{
+  "directory": "/home/tiagogugu/CG1/Projeto/sinc/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -isystem /usr/lib  -std=c++11 -o CMakeFiles/sinc.dir/home/tiagogugu/CG1/Projeto/common/texture.cpp.o -c /home/tiagogugu/CG1/Projeto/common/texture.cpp",
+  "file": "/home/tiagogugu/CG1/Projeto/common/texture.cpp"
+},
+{
+  "directory": "/home/tiagogugu/CG1/Projeto/sinc/build",
+  "command": "/usr/bin/c++ -DGLEW_STATIC -DTW_NO_DIRECT3D -DTW_NO_LIB_PRAGMA -DTW_STATIC -D_CRT_SECURE_NO_WARNINGS -isystem /usr/lib  -std=c++11 -o CMakeFiles/sinc.dir/home/tiagogugu/CG1/Projeto/common/controls.cpp.o -c /home/tiagogugu/CG1/Projeto/common/controls.cpp",
+  "file": "/home/tiagogugu/CG1/Projeto/common/controls.cpp"
+}
+]

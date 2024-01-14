@@ -1,0 +1,3 @@
+/home/tiagogugu/CG1/Projeto/sinc/build/CMakeFiles/sinc.dir
+/home/tiagogugu/CG1/Projeto/sinc/build/CMakeFiles/edit_cache.dir
+/home/tiagogugu/CG1/Projeto/sinc/build/CMakeFiles/rebuild_cache.dir
